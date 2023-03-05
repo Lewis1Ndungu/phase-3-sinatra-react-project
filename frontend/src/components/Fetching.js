@@ -9,7 +9,7 @@ function Fetching() {
   const [posts, setPosts] = useState([])
 
   useEffect(() => {
-    axios.get(`https://cahayo-blog-app.herokuapp.com/create_posts`)
+    axios.get(`http://localhost:9292/create_posts`)
       .then((res) => {
         console.log(res);
         setPosts(res.data);

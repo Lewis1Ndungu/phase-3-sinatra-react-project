@@ -1,0 +1,17 @@
+.Crud_Btns{
+    color: rgb(253, 140, 10);
+    border-radius: 5px;
+    padding: 2px;
+    margin-bottom: 10px;
+    margin-right: 5px;
+    font-size: 15px;
+}
+
+.Comment_Section > h3 {
+    font-size: 16px;
+    
+}
+
+.Comment_Section > p {
+    font-size: 15px;
+}

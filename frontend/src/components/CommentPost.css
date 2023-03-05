@@ -1,0 +1,35 @@
+.CommentBox{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    gap: 3px;
+    padding: 5px;
+}
+
+.CommentBox > input, textarea{
+    display: flex;
+    flex-direction: column;
+    padding: 5px;
+    border-radius: 5px;
+    color: rgb(253, 140, 10);
+    width: 100%;
+}
+
+.CommentBox > textarea{
+    height: 120px;
+    margin-bottom: 10px;
+}
+
+.CommentBox > .btn{
+    width: 30%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 5px;
+    font-size: 14px;
+    margin-left: 70.3%;    
+    height: 28px;
+}
+.Comment_Section {
+    margin-left: 5px;
+}

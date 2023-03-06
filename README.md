@@ -1,4 +1,14 @@
+## Sinatra-React Final Project
+LEWIS NDUNG'U BLOG APP
+
 # Phase 3 Project Guidelines
+
+
+## Slides Link
+https://docs.google.com/presentation/d/1eKTMXeFS7_ECp9LPeGNnIaC3ZeMgdVWa9KoSD5peo6Y/edit?usp=sharing 
+
+## Githup repository
+https://github.com/Lewis1Ndungu/phase-3-sinatra-react-project
 
 ## Learning Goals
 
